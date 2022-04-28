@@ -1,0 +1,6 @@
+/target/
+/build.sbt
+/.bsp/
+/.idea/
+/project/
+/src/test/
